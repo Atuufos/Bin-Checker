@@ -1,6 +1,6 @@
 <?php
-////////BENCHAMIN LOUIS//////
-//CHANNEL:- T.ME/INDUSBOTS////
+////////King//////
+//CHANNEL:- t.me/Bincheckertele/////
 error_reporting(0);
 
 set_time_limit(0);
